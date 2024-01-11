@@ -1,5 +1,1 @@
-//Stolen from endr1337
-  function popUpOnWebsite()
-    {
-     alert('Accept the pop ups and redirects!");
-    }
+javascript:alert('Testing Testing 123!')
