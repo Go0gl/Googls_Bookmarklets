@@ -1,0 +1,5 @@
+//Stolen from endr1337
+  function popUpOnWebsite()
+    {
+     alert('Accept the pop ups and redirects!");
+    }
